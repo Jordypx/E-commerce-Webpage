@@ -161,7 +161,7 @@ export default {
 
         },
        ],
-       successURL: 'https://e-commerce-webpage56874.netlify.app/Success',
+       successURL: 'https://localhost:8080/Success',
        cancelURL: 'http://localhost:8080/error',
      };
    

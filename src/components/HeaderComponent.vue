@@ -157,7 +157,8 @@ export default {
        lineItems:[
         {
           price:'price_1LkORDDtscEe2fhBUijm3WCW',
-          quantity:1,
+          quantity:0,
+
         },
        ],
        successURL: 'http://localhost:8080/Success',

@@ -156,7 +156,7 @@ export default {
        loading:false,
        lineItems:[
         {
-          price: 'price_1LiJHrDtscEe2fhBFXxhG4lU',
+          price: 'price_1LkORDDtscEe2fhBUijm3WCW',
           quantity:1,
 
         },

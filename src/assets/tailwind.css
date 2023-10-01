@@ -16,7 +16,8 @@ body {
   width: 98%;
   margin: 0 auto;
   font-family: "Kumbh Sans", sans-serif;
-  overflow: hidden;
+  overflow-y: auto;
+  overflow-x: hidden;
 }
 
 .body-header {

@@ -549,6 +549,7 @@ ul li {
     width: 80%;
     margin: 0 auto;
     font-family: "Kumbh Sans", sans-serif;
+    overflow: hidden;
   }
 
   .sidebar-toggle {
@@ -737,7 +738,8 @@ ul li {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     position: relative;
-    left: 20%;
+    left: 15%;
+    bottom: 10%;
   }
 
   .imgBtns img:focus {

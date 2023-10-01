@@ -182,7 +182,7 @@ export default {
           quantity: 1,
         },
       ],
-      successURL: "https://e-commerce-webpage56874.netlify.app/success",
+      successURL: "https://e-commerce-webpage56874.netlify.app/Success",
       cancelURL: "https://e-commerce-webpage56874.netlify.app/cancel",
     };
   },

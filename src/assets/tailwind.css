@@ -736,7 +736,7 @@ ul li {
   .ProductMainclass {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    margin-left: 15rem;
+    margin-right: -15rem;
   }
 
   .imgBtns img:focus {

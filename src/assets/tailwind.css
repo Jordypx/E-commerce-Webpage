@@ -739,7 +739,7 @@ ul li {
     grid-template-columns: repeat(2, 1fr);
     position: relative;
     left: 15%;
-    bottom: 10%;
+    top: -10%;
   }
 
   .imgBtns img:focus {

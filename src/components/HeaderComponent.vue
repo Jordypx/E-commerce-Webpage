@@ -182,8 +182,8 @@ export default {
           quantity: 1,
         },
       ],
-      successURL: "http://localhost:8080/Success",
-      cancelURL: "http://localhost:8080/error",
+      successURL: "https://e-commerce-webpage56874.netlify.app/success",
+      cancelURL: "https://e-commerce-webpage56874.netlify.app/cancel",
     };
   },
 

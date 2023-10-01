@@ -737,7 +737,7 @@ ul li {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     position: relative;
-    left: 12%;
+    left: 10%;
   }
 
   .imgBtns img:focus {
